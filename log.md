@@ -1,4 +1,4 @@
-# 100 Days Of FilanTech Code Challenge - Log [Abdiqani Mohamud Abdi]
+# 100 Days Of FilanTech Code Challenge - Log [Abdu rahman mahamud]
 
 ### Day 1: October 7, 2022
 
